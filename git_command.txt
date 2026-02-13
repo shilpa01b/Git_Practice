@@ -28,3 +28,5 @@ git init
     git commit -m "basic git commands"
     git push
     git push --set-upstream origin master
+
+this thing is to understand gitpull
