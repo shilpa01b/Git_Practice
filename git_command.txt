@@ -17,3 +17,14 @@ git init
      git restore 12-02.py
      git status
      history
+     git status
+    git add git_command.txt
+    git commit -m "basic git commands"
+    git remote add origin https://github.com/shilpa01b/Git_Practice.git
+    git remote -v
+    git status
+    git add
+    git add git_command.txt
+    git commit -m "basic git commands"
+    git push
+    git push --set-upstream origin master
