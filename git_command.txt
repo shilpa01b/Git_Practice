@@ -10,9 +10,6 @@ git init
      git add 12-02.py
      git status
      git commit -m "python file"
-     git config --global user.email "shilpabiswas0906@gmail.com"
-     /bin/python3 /home/shilpabiswas/Git_Practice/12-02.py
-     git config --global user.name "shilpa01b"
      git commit -m "python file"
      git status
      rm 12-02.py
