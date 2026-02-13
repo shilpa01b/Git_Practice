@@ -1,0 +1,22 @@
+git init
+     ls -a
+     git status
+     git add 12-02.py
+     git status
+     git rm --cached
+     git rm --cached 12-02.py
+     ls
+     git status
+     git add 12-02.py
+     git status
+     git commit -m "python file"
+     git config --global user.email "shilpabiswas0906@gmail.com"
+     /bin/python3 /home/shilpabiswas/Git_Practice/12-02.py
+     git config --global user.name "shilpa01b"
+     git commit -m "python file"
+     git status
+     rm 12-02.py
+     git status
+     git restore 12-02.py
+     git status
+     history
